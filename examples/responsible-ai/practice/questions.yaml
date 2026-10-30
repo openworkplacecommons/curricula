@@ -1,0 +1,19 @@
+# Public illustrative practice item with published answer, not an official exam.
+items:
+  - id: OWC-AI-Q001
+    type: single_choice
+    locale: en
+    status: draft
+    competencies:
+      - OWC-AI-C01
+    prompt: What is an appropriate way to use AI-generated information in an important workplace decision?
+    options:
+      - id: A
+        text: Assume that the output has been fully verified.
+      - id: B
+        text: Check its accuracy and relevant sources before relying on it.
+      - id: C
+        text: Treat it as an official company policy automatically.
+    correct_answer: B
+    explanation: Generated responses can include errors; important claims require independent verification.
+    license: TBD
