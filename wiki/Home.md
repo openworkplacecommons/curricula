@@ -15,6 +15,5 @@ The **canonical, reviewable specification** belongs in the `curricula` repositor
 - [Versioning and validation](https://github.com/openworkplacecommons/curricula/blob/main/docs/07-publication-and-validation.md)
 - [Roadmap and open decisions](https://github.com/openworkplacecommons/curricula/blob/main/docs/08-roadmap-and-decisions.md)
 
-Links to `main/docs` work **after the files are added/merged into the repository**. Until then, consult the supplied Markdown package.
 
 **OWC provides content and open evaluation guidance; it does not run certification exams or issue credentials.**
