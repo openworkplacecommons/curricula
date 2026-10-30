@@ -1,0 +1,18 @@
+# Public nonbinding evaluation guidance, not OWC exam policy.
+course_id: OWC-AI-101
+locale: en
+status: draft
+competency_coverage:
+  - competency_id: OWC-AI-C01
+    suggested_evidence:
+      - Explain why generated statements should be independently verified.
+    example_methods:
+      - scenario_question
+  - competency_id: OWC-AI-C02
+    suggested_evidence:
+      - Select a safe response when asked to paste confidential information into an AI tool.
+    example_methods:
+      - workplace_scenario
+notes:
+  - The adopting organization chooses any actual tests, passing criteria, learner records and certificates.
+  - OWC publishes practice questions openly and does not hold a secure certification item bank.
