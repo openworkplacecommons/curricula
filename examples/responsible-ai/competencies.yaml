@@ -1,0 +1,6 @@
+# Illustrative draft competency IDs.
+competencies:
+  - id: OWC-AI-C01
+    statement: Describe a potential limitation of generative AI output.
+  - id: OWC-AI-C02
+    statement: Choose safe handling practices for confidential workplace information when using AI tools.
