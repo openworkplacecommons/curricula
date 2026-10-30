@@ -1,0 +1,22 @@
+# Illustrative schema only; not a reviewed workplace training curriculum.
+schema_version: '0.1.0'
+id: OWC-AI-101
+version: '0.1.0'
+status: draft
+locale: en
+title: Responsible AI at Work
+summary: An introductory workplace AI-literacy course (outline only).
+audience:
+  - general-employees
+license: TBD  # ratify content license before third-party publication
+competencies_ref: competencies.yaml
+modules:
+  - id: M01
+    title: AI in the Workplace
+    resource_refs:
+      - lessons/introduction.md
+practice_ref: practice/questions.yaml
+evaluation_guide_ref: evaluation/guide.yaml
+review:
+  level: draft
+  last_reviewed: null
